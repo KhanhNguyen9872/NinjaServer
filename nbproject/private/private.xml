@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Top.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/ChienTruong.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Confirm.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/GameScr.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Player.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/TinhLuyen.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/ItemWait.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/MapServer.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/BiKip.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/option/ItemOption.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Server.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Effect.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/DanhVong.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/option/SkillOption.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/CaiTrang.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Clan.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/io/ISession.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/TileMap.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/io/Message.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/BackCave.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/io/IMessageHandler.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/io/Lock.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/DiamondSwap.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Text.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Cmd.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Char.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Init.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/ItemStands.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/User.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/io/API_Card.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/io/MySQL.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/BuNhin.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Admission.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Admin.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/ClanManor.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Controller.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Clan_ThanThu.java</file>
+            <file>file:/home/khanhnguyen/Desktop/12/src/ninja/server/Client.java</file>
+        </group>
+    </open-files>
+</project-private>

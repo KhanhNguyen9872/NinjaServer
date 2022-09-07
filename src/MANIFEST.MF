@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_05-b13 (Oracle Corporation)
+Class-Path: lib/json_simple-1.1.jar lib/mysql-connector-java-5.1.23-bi
+ n.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: ninja.server.NinjaUtil
+
