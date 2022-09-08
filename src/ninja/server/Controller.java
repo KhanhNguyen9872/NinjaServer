@@ -2203,7 +2203,7 @@ public class Controller
                             if (_char.ItemMounts[4] != null) {
                                 Service.LoadThuCuoi(_char, _char.charID, _char.ItemMounts);
                             }
-                            final String str = "KhanhNguyen9872\n[FullNhiemVu_2-2022]\n\n Ninja-Server-Termux\nGithub: github.com/khanhnguyen9872\nFB: fb.me/khanh10a1\n\nNinja Online: " + Client.sizeClients;
+                            final String str = "KhanhNguyen9872\n[FullNhiemVu_2-2022]\n\n Ninja-Server-Termux\nGithub: github.com/khanhnguyen9872\nFB: fb.me/khanh10a1\n\nNinja Online: " + Client.sizeClients + "\n=======\nCPU: " + Runtime.getRuntime().availableProcessors() + " core\n\nMaximum JVM: " + (Runtime.getRuntime().maxMemory() / 1024 / 1024) + "MB\n\nTotal allocated JVM: " + (Runtime.getRuntime().totalMemory() / 1024 / 1024) + "MB\n\nFree JVM: " + (Runtime.getRuntime().freeMemory() / 1024 / 1024) + "MB\n";
                             final String[] arrText = str.split("\n", 2);
                             Service.AlertMessage(_char, arrText[0], String.format(arrText[1], (int)(Client.sizeUser() * 1.5)));
                             _char.user.session.setDelayOut(600000, false);
